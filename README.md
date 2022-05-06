@@ -4,7 +4,7 @@ Step 1.  Generate public/private rsa key pair
 
     ssh-keygen -t rsa -b 4096
     
-Step 2. Copy our public key to remote machine
+Step 2. Copy our public key to remote machine `Run on Git Bash`
 
     ssh-copy-id vex@192.168.217.100
 
